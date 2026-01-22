@@ -6,6 +6,10 @@ Softcover is an ebook typesetting system for technical authors. This is the main
 
 For more details about Softcover, see [*The Softcover Book*](http://manual.softcover.io/book).
 
+## Project status
+
+Softcover is feature-complete for its main use cases and its associated company was [acquired](https://news.learnenough.com/big-news-about-learn-enough). No additional features or significant development are planned at this time.
+
 ## Installation
 
     $ gem install softcover
